@@ -1,0 +1,14 @@
+{
+  "name": "odk-authoring",
+  "version": "1.0.0",
+  "main": "index.html",
+  "ignore": [
+    ".git",
+    ".gitignore",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": ">2.0.0",
+    "d3": ">3.5",
+  },
+}
